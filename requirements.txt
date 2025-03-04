@@ -1,4 +1,13 @@
 Flask
-Flask-Cors
 gunicorn
 PyPDF2
+langdetect
+reportlab
+sentence-transformers
+faiss-cpu
+spacy
+huggingface-hub
+transformers
+pandas
+plotly
+numpy
