@@ -11,3 +11,4 @@ transformers
 pandas
 plotly
 numpy
+deep-translator
